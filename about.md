@@ -1,6 +1,6 @@
 ---
 date: '2017-07-07T04:27:15.243Z'
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
