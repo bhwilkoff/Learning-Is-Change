@@ -6,4 +6,4 @@ layout: default
 
 I’m writing on a Google Doc and it will create a new page.
 
-![RichWhite_2017-Jul-07.jpg](./images/7ed39296-2570-43a6-b8f5-d697df77fe7a.jpg)
+![RichWhite_2017-Jul-07.jpg](./images/4710e91c-c9cd-455c-ba9a-c5c793964908.jpg)
